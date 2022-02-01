@@ -8,3 +8,4 @@ AUTHORS:
 
 - Gómez Acebey Freddy Alejandro
 - Castillo Rivera Jose Miguel
+- Nina Sardinas Huascar Manuel
