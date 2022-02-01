@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=lowerLimit\ upperLimit
+comment1.target=Calculator(int,\ int)
+comment2.params=firstNumber\ secondNumber
+comment2.target=int\ add(int,\ int)
+comment3.params=firstNumber\ secondNumber
+comment3.target=int\ substract(int,\ int)
+comment4.params=firstNumber\ secondNumber
+comment4.target=void\ validateParameters(int,\ int)
+comment5.params=result
+comment5.target=void\ validateResult(int)
+comment6.params=newUpperLimit
+comment6.target=void\ setUpperLimit(int)
+comment7.params=
+comment7.target=int\ getUpperLimit()
+comment8.params=newLowerLimit
+comment8.target=void\ setLowerLimit(int)
+comment9.params=
+comment9.target=int\ getLowerLimit()
+numComments=10
