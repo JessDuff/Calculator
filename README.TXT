@@ -9,3 +9,4 @@ AUTHORS:
 - Gómez Acebey Freddy Alejandro
 - Castillo Rivera Jose Miguel
 - Pariente Merida Jessica Pamela
+- Colque Pay Ramiro
