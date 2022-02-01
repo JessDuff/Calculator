@@ -11,3 +11,4 @@ AUTHORS:
 - Pariente Merida Jessica Pamela
 - Nina Sardinas Huascar Manuel
 - Colque Pay Ramiro
+- Calle Gonzales Juan Manuel
